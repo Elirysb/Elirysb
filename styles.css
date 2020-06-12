@@ -1,0 +1,45 @@
+
+div {
+    border: 1px solid #ccc;
+    padding: 0 10px;
+}
+
+h2 {
+  text-align: left;
+  margin: 8px 0px 15px 0px;
+  font-size: 20px;
+}
+
+.container, img {
+  width: 300px;
+}
+
+img {
+  padding-bottom: 5px;
+}
+
+.container {
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-shadow: 8px 8px 2px #ddd;
+  border-radius: 5px;
+}
+
+
+.italic {
+  font-style: italic;
+  line-height: 120%;
+}
+
+
+.more {
+  list-style: none;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.more span {
+  font-weight: bold;
+}
